@@ -101,7 +101,7 @@ button {
 .w-full { width: 100%; }
 .h-full { height: 100%; }
 .h-auto { height: auto; }
-.object-cover { object- Fitting: cover; }
+.object-cover { object-fit: cover; }
 .overflow-hidden { overflow: hidden; }
 .shrink-0 { flex-shrink: 0; }
 
